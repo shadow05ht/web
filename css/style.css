@@ -17,6 +17,9 @@ h1{
 	font-size: 50px;
 	font-weight: 500;
 }
+.one{
+	color: #ffc000;
+}
 
 body a{
     transition:0.5s all;
